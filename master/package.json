@@ -1,0 +1,28 @@
+{
+    "author": "DEAKIN-ISRII",
+    "dependencies": {},
+    "keywords": [],
+    "name": "tutorial-1-3",
+    "pebble": {
+        "displayName": "Tutorial-1-3",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "5f2b4083-8db2-4b04-8a55-e6f8d3eedf4e",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.1.0"
+}
